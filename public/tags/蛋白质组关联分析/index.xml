@@ -26,7 +26,7 @@
 			&lt;tr&gt;
 					&lt;td&gt;15:30-16:30&lt;/td&gt;
 					&lt;td&gt;杨晶晶、王告&lt;/td&gt;
-					&lt;td&gt;与讲师答疑与研究问题探讨&lt;/td&gt;
+					&lt;td&gt;与讲师答疑与 FAQ 保留问题&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
 					&lt;td&gt;16:30-18:30&lt;/td&gt;
@@ -45,6 +45,12 @@
 &lt;ul&gt;
 &lt;li&gt;共定位与孟德尔随机化：贝叶斯共定位的假设与边界；将孟德尔随机化与转录组关联分析（TWAS）结合以缓解水平多效性干扰。&lt;/li&gt;
 &lt;li&gt;阿尔茨海默病转录组关联分析（TWAS）和蛋白质组关联分析（PWAS）应用：显著基因和蛋白的可视化呈现、蛋白质相互作用网络聚类，以及通路富集分析对机制假设的构建。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="与讲师答疑与-faq-保留问题"&gt;与讲师答疑与 FAQ 保留问题&lt;a class="anchor" href="#%e4%b8%8e%e8%ae%b2%e5%b8%88%e7%ad%94%e7%96%91%e4%b8%8e-faq-%e4%bf%9d%e7%95%99%e9%97%ae%e9%a2%98"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;答疑首先开放学员自由提问，鼓励学员主动提问；任何与当天讲座、上机实践、研究设计和个人课题相关的问题都可以提出。&lt;/li&gt;
+&lt;li&gt;FAQ 保留问题：针对当天讲授的内容，目前机器学习（ML）与人工智能（AI）的发展会带来什么影响？老师对 AI/ML 在科研和未来发展中的作用有哪些视角？&lt;/li&gt;
+&lt;li&gt;邀请当天授课教师结合自己的研究经验给出看法。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="上机实践"&gt;上机实践&lt;a class="anchor" href="#%e4%b8%8a%e6%9c%ba%e5%ae%9e%e8%b7%b5"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;转录组关联分析（TWAS）和蛋白质组关联分析（PWAS）建模、共定位与孟德尔随机化分析的上机练习。&lt;/p&gt;</description></item></channel></rss>
