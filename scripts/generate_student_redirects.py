@@ -137,7 +137,7 @@ def validate_students(students: list[dict[str, str]]) -> None:
             continue
 
         if not SAFE_ENTRY_RE.fullmatch(entry):
-            errors.append(f"第 {row} 行入口不是英文安全格式：{entry}")
+            errors.append(f"第 {row} 行入口格式需为英文安全格式：{entry}")
 
         parsed = urllib.parse.urlparse(url)
         if parsed.scheme not in {"http", "https"} or not parsed.netloc:
@@ -191,7 +191,7 @@ def redirect_html(target_url: str) -> str:
 <body>
   <main>
     <h1>正在连接上机服务器</h1>
-    <p>如果没有自动跳转，请点击下方链接进入个人上机环境。</p>
+    <p>页面停留时，请点击下方链接进入个人上机环境。</p>
     <p><a href="{escaped_url}">进入个人上机环境</a></p>
   </main>
 </body>

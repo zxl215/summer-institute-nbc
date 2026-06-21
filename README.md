@@ -6,7 +6,7 @@
 - 主题模板：https://themes.gohugo.io/themes/hugo-book/
 - 主题源码：https://github.com/alex-shpak/hugo-book
 
-课程内容使用Markdown维护，源文件位于 `content/docs/`。生成后的HTML文件位于 `public/`，由GitHub Actions自动生成并提交回本仓库。本仓库不使用GitHub Pages部署流程。
+课程内容使用Markdown维护，源文件位于 `content/docs/`。生成后的HTML文件位于 `public/`，由GitHub Actions自动生成并提交回本仓库。
 
 生成目标是让维护者或读者可以直接打开 `public/index.html` 查看网站；不应依赖 `hugo serve` 才能浏览。为此，Hugo配置启用了相对链接和 `.html` 文件式链接。
 
@@ -55,7 +55,7 @@ git push
 
 生成规则：
 
-- 只生成英文入口，不生成中文姓名入口。
+- 入口文件名来自 `Linux文件夹` 列。
 - 入口文件位于网站根目录，例如 `public/<Linux文件夹>.html`。
 - 每个入口页面会自动跳转到对应的个人上机环境。
 - 如果更新表格，只需要替换 `data/course_students_urls.xlsx` 并推送；GitHub Actions会自动重新生成入口页面。
@@ -91,7 +91,7 @@ GitHub Actions配置位于 `.github/workflows/build-html.yml`。每次推送Mark
 4. 运行 `python3 scripts/generate_student_redirects.py --input data/course_students_urls.xlsx --output public` 生成学员英文上机入口。
 5. 如果 `public/` 有变化，自动提交 `Build Hugo HTML [skip ci]` 并推回 `main`。
 
-这个流程只生成并提交HTML，不发布GitHub Pages。
+这个流程负责生成并提交HTML。
 
 ## 中文写作规则
 
