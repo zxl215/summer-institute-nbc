@@ -129,7 +129,7 @@
 			&lt;tr&gt;
 					&lt;td&gt;12:30-14:30&lt;/td&gt;
 					&lt;td&gt;王告&lt;/td&gt;
-					&lt;td&gt;从关联到因果：精细定位、共定位与机器学习（ML）、人工智能（AI）新进展&lt;/td&gt;
+					&lt;td&gt;从关联到因果：精细定位、共定位与多组数据集整合分析方法&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
 					&lt;td&gt;14:30-15:30&lt;/td&gt;
@@ -156,10 +156,10 @@
 &lt;li&gt;扩展前沿：生物样本库规模下的稀有变异聚合检验、多表型全基因组关联分析（GWAS）与跨族群荟萃分析。&lt;/li&gt;
 &lt;li&gt;精细定位的统计基础：多重连锁不平衡下的信号解耦；基于迭代贝叶斯变量选择构建可信集的原理；基于汇总统计量的精细定位及其对连锁不平衡参考面板质量的敏感性。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="从关联到因果精细定位共定位与机器学习ml人工智能ai新进展"&gt;从关联到因果：精细定位、共定位与机器学习（ML）、人工智能（AI）新进展&lt;a class="anchor" href="#%e4%bb%8e%e5%85%b3%e8%81%94%e5%88%b0%e5%9b%a0%e6%9e%9c%e7%b2%be%e7%bb%86%e5%ae%9a%e4%bd%8d%e5%85%b1%e5%ae%9a%e4%bd%8d%e4%b8%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0ml%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bdai%e6%96%b0%e8%bf%9b%e5%b1%95"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id="从关联到因果精细定位共定位与多组数据集整合分析方法"&gt;从关联到因果：精细定位、共定位与多组数据集整合分析方法&lt;a class="anchor" href="#%e4%bb%8e%e5%85%b3%e8%81%94%e5%88%b0%e5%9b%a0%e6%9e%9c%e7%b2%be%e7%bb%86%e5%ae%9a%e4%bd%8d%e5%85%b1%e5%ae%9a%e4%bd%8d%e4%b8%8e%e5%a4%9a%e7%bb%84%e6%95%b0%e6%8d%ae%e9%9b%86%e6%95%b4%e5%90%88%e5%88%86%e6%9e%90%e6%96%b9%e6%b3%95"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;多性状精细定位与多研究共定位：利用表型间相关性提高精细定位分辨率；通过多任务学习统一整合多个研究的汇总统计量，并自然拓展到多组学与非全基因组关联分析（GWAS）场景。&lt;/li&gt;
-&lt;li&gt;机器学习（ML）与人工智能（AI）在统计功能基因组学中的应用与挑战：基于深度学习的调控效应预测；将功能注释作为先验纳入贝叶斯精细定位；基础模型对跨组学整合、因果推断与可解释性的启示；以及族群差异与数据分布偏移对机器学习方法泛化性的限制。&lt;/li&gt;
+&lt;li&gt;多组数据集整合分析：在多个研究、多个表型和多组学数据之间整合证据，讨论汇总统计量、连锁不平衡参考面板、功能注释先验和因果解释之间的关系。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="高通量功能基因组实验与复杂疾病研究"&gt;高通量功能基因组实验与复杂疾病研究&lt;a class="anchor" href="#%e9%ab%98%e9%80%9a%e9%87%8f%e5%8a%9f%e8%83%bd%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%8d%e6%9d%82%e7%96%be%e7%97%85%e7%a0%94%e7%a9%b6"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
@@ -390,4 +390,4 @@
 &lt;p&gt;场地备有饮用水。为支持环保，请尽量自带水杯。&lt;/p&gt;</description></item><item><title>发票申请</title><link>https://example.org/docs/life/invoice.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/life/invoice.html</guid><description>&lt;h1 id="发票申请"&gt;发票申请&lt;a class="anchor" href="#%e5%8f%91%e7%a5%a8%e7%94%b3%e8%af%b7"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;课程结束后5个工作日内提供发票申请。&lt;/p&gt;
 &lt;p&gt;申请链接：&lt;a href="https://docs.qq.com/form/page/DRU9UdGNMTVpWeGhS"&gt;发票申请表&lt;/a&gt;&lt;/p&gt;</description></item><item><title>课件下载</title><link>https://example.org/docs/slides.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/slides.html</guid><description>&lt;h1 id="课件下载"&gt;课件下载&lt;a class="anchor" href="#%e8%af%be%e4%bb%b6%e4%b8%8b%e8%bd%bd"&gt;#&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;课程课件会随课程进度持续更新。正式课件准备好后，会替换本页对应的下载文件；如果当前下载文件为空，说明该课件仍在更新中，请以授课现场通知为准。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;课程课件会随课程进度持续更新。原则上，第二天上课的课件会在前一天下午之前上传到本页。正式课件准备好后，会替换本页对应的下载文件；如果当前下载文件为空，说明该课件仍在更新中，请以授课现场通知为准。&lt;/p&gt;</description></item></channel></rss>
