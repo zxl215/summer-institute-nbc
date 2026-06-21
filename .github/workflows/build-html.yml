@@ -12,6 +12,7 @@ on:
       - "data/**"
       - "i18n/**"
       - "layouts/**"
+      - "scripts/**"
       - "static/**"
       - "themes/**"
       - ".gitmodules"
@@ -55,6 +56,9 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: hugo --gc --minify --cleanDestinationDir --noTimes --noChmod --destination public
+
+      - name: Generate student server redirects
+        run: python3 scripts/generate_student_redirects.py --input data/course_students_urls.xlsx --output public
 
       - name: Commit generated HTML
         run: |

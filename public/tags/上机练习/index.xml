@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>上机练习 on 第四届大鹏湾统计功能基因组学暑期课程</title><link>https://example.org/tags/%E4%B8%8A%E6%9C%BA%E7%BB%83%E4%B9%A0.html</link><description>Recent content in 上机练习 on 第四届大鹏湾统计功能基因组学暑期课程</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="https://example.org/tags/%E4%B8%8A%E6%9C%BA%E7%BB%83%E4%B9%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>连接服务器</title><link>https://example.org/docs/practice/connect-server.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/practice/connect-server.html</guid><description>&lt;h1 id="连接服务器"&gt;连接服务器&lt;a class="anchor" href="#%e8%bf%9e%e6%8e%a5%e6%9c%8d%e5%8a%a1%e5%99%a8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id="连接无线网络"&gt;连接无线网络&lt;a class="anchor" href="#%e8%bf%9e%e6%8e%a5%e6%97%a0%e7%ba%bf%e7%bd%91%e7%bb%9c"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;上机前请先连接现场无线网络：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;无线网络名称：&lt;code&gt;SMART-Guest&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如无法连接无线网络，请联系现场工作人员或助教。&lt;/p&gt;
+&lt;h2 id="打开个人上机入口"&gt;打开个人上机入口&lt;a class="anchor" href="#%e6%89%93%e5%bc%80%e4%b8%aa%e4%ba%ba%e4%b8%8a%e6%9c%ba%e5%85%a5%e5%8f%a3"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;每位学员都有一个个人上机入口。入口统一使用英文账号，不使用中文姓名作为网址。&lt;/p&gt;</description></item><item><title>上机练习</title><link>https://example.org/docs/practice/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/practice/index.html</guid><description>&lt;h1 id="上机练习"&gt;上机练习&lt;a class="anchor" href="#%e4%b8%8a%e6%9c%ba%e7%bb%83%e4%b9%a0"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;本栏目用于发布课程上机练习相关说明，包括网络连接、服务器入口、上机环境、数据目录和后续练习材料。&lt;/p&gt;
+&lt;h2 id="当前说明"&gt;当前说明&lt;a class="anchor" href="#%e5%bd%93%e5%89%8d%e8%af%b4%e6%98%8e"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="../../docs/practice/connect-server.html"&gt;连接服务器&lt;/a&gt;：连接无线网络、打开个人上机入口，并进入个人上机环境。&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
