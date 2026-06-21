@@ -1,6 +1,11 @@
 ---
 title: "吃饭"
 weight: 3
+categories:
+  - "食宿与后勤"
+tags:
+  - "吃饭"
+  - "外卖"
 ---
 
 # 吃饭

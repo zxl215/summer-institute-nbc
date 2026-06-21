@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  {{- .Content -}}
+
+  {{ with .Data.Terms }}
+  <h2>{{ $.Title }}列表</h2>
+  <ul>
+    {{ range .Alphabetical }}
+    <li>
+      <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>（{{ .Count }}）
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

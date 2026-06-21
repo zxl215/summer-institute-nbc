@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>{{ .Title }}</h1>
+  <p>以下页面归入“{{ .Title }}”。</p>
+
+  <h2>相关页面</h2>
+  <ul>
+    {{ range .Pages.ByWeight }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>
+    </li>
+    {{ end }}
+  </ul>
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

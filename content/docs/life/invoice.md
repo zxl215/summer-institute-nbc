@@ -1,6 +1,10 @@
 ---
 title: "发票申请"
 weight: 6
+categories:
+  - "食宿与后勤"
+tags:
+  - "发票"
 ---
 
 # 发票申请

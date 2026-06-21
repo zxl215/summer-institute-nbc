@@ -7,6 +7,12 @@
 - id: Last modified by
   translation: 最后修改者
 
+- id: Categories
+  translation: 分类
+
+- id: Tags
+  translation: 标签
+
 - id: Menu
   translation: 菜单
 

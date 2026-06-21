@@ -10,9 +10,10 @@ enableGitInfo: true
 locale: "zh-CN"
 defaultContentLanguage: "zh"
 hasCJKLanguage: true
-disableKinds:
-  - taxonomy
-  - term
+
+taxonomies:
+  分类: "categories"
+  标签: "tags"
 
 markup:
   goldmark:
@@ -32,6 +33,12 @@ menu:
     - name: "主题模板"
       url: "https://themes.gohugo.io/themes/hugo-book/"
       weight: 20
+    - name: "分类"
+      url: "/categories/"
+      weight: 30
+    - name: "标签"
+      url: "/tags/"
+      weight: 40
 
 params:
   BookTheme: "light"
@@ -39,6 +46,7 @@ params:
   BookSection: "docs"
   BookRepo: "https://github.com/StatFunGen/summer-institute-nbc"
   BookEditLink: "{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}"
+  BookLastChangeLink: "{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}"
   BookDateFormat: "2006年1月2日"
   BookSearch: true
   BookComments: false
