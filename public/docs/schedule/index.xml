@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>课程安排 on 第四届大鹏湾统计功能基因组学暑期课程</title><link>https://example.org/docs/schedule/</link><description>Recent content in 课程安排 on 第四届大鹏湾统计功能基因组学暑期课程</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="https://example.org/docs/schedule/index.xml" rel="self" type="application/rss+xml"/><item><title>6月22日 星期一</title><link>https://example.org/docs/schedule/day-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-1/</guid><description>&lt;h1 id="2026年6月22日-星期一"&gt;2026年6月22日 星期一&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8822%e6%97%a5-%e6%98%9f%e6%9c%9f%e4%b8%80"&gt;#&lt;/a&gt;&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>课程安排 on 第四届大鹏湾统计功能基因组学暑期课程</title><link>https://example.org/docs/schedule/index.html</link><description>Recent content in 课程安排 on 第四届大鹏湾统计功能基因组学暑期课程</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="https://example.org/docs/schedule/index.xml" rel="self" type="application/rss+xml"/><item><title>6月22日 星期一</title><link>https://example.org/docs/schedule/day-1.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-1.html</guid><description>&lt;h1 id="2026年6月22日-星期一"&gt;2026年6月22日 星期一&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8822%e6%97%a5-%e6%98%9f%e6%9c%9f%e4%b8%80"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;table&gt;
 	&lt;thead&gt;
 			&lt;tr&gt;
@@ -70,7 +70,7 @@
 &lt;li&gt;配置后续课程所需的计算环境。&lt;/li&gt;
 &lt;li&gt;介绍分子性状分析流程的模块化架构与关键接口。&lt;/li&gt;
 &lt;li&gt;基于最小示例数据集完成端到端运行，为后续每日专题练习打下基础。&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>6月23日 星期二</title><link>https://example.org/docs/schedule/day-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-2/</guid><description>&lt;h1 id="2026年6月23日-星期二"&gt;2026年6月23日 星期二&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8823%e6%97%a5-%e6%98%9f%e6%9c%9f%e4%ba%8c"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>6月23日 星期二</title><link>https://example.org/docs/schedule/day-2.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-2.html</guid><description>&lt;h1 id="2026年6月23日-星期二"&gt;2026年6月23日 星期二&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8823%e6%97%a5-%e6%98%9f%e6%9c%9f%e4%ba%8c"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;table&gt;
 	&lt;thead&gt;
 			&lt;tr&gt;
@@ -131,7 +131,7 @@
 &lt;li&gt;非编码变异效应解析：利用高通量功能基因组数据与卷积神经网络等深度学习模型，系统评估脱氧核糖核酸变异对增强子活性与基因调控的影响；功能注释评分的定位；新生突变与功能注释在复杂疾病研究中的整合。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="上机实践"&gt;上机实践&lt;a class="anchor" href="#%e4%b8%8a%e6%9c%ba%e5%ae%9e%e8%b7%b5"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;基因型质控、群体结构与亲缘关系分析；全基因组关联分析（GWAS）精细定位与多研究共定位上机练习。&lt;/p&gt;</description></item><item><title>6月24日 星期三</title><link>https://example.org/docs/schedule/day-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-3/</guid><description>&lt;h1 id="2026年6月24日-星期三"&gt;2026年6月24日 星期三&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8824%e6%97%a5-%e6%98%9f%e6%9c%9f%e4%b8%89"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;基因型质控、群体结构与亲缘关系分析；全基因组关联分析（GWAS）精细定位与多研究共定位上机练习。&lt;/p&gt;</description></item><item><title>6月24日 星期三</title><link>https://example.org/docs/schedule/day-3.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-3.html</guid><description>&lt;h1 id="2026年6月24日-星期三"&gt;2026年6月24日 星期三&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8824%e6%97%a5-%e6%98%9f%e6%9c%9f%e4%b8%89"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;table&gt;
 	&lt;thead&gt;
 			&lt;tr&gt;
@@ -180,7 +180,7 @@
 &lt;li&gt;孟德尔疾病到复杂性状架构：外显子组与全基因组测序在孟德尔病诊断中的流程；全基因组关联分析（GWAS）、单核苷酸变异遗传率与全基因模型对复杂性状架构的重新解读。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="上机实践"&gt;上机实践&lt;a class="anchor" href="#%e4%b8%8a%e6%9c%ba%e5%ae%9e%e8%b7%b5"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;分子性状数据处理、调控数量性状位点（QTL）定位、精细定位、细胞类型特异性数量性状位点（QTL）分析上机练习。&lt;/p&gt;</description></item><item><title>6月25日 星期四</title><link>https://example.org/docs/schedule/day-4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-4/</guid><description>&lt;h1 id="2026年6月25日-星期四"&gt;2026年6月25日 星期四&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8825%e6%97%a5-%e6%98%9f%e6%9c%9f%e5%9b%9b"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;分子性状数据处理、调控数量性状位点（QTL）定位、精细定位、细胞类型特异性数量性状位点（QTL）分析上机练习。&lt;/p&gt;</description></item><item><title>6月25日 星期四</title><link>https://example.org/docs/schedule/day-4.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-4.html</guid><description>&lt;h1 id="2026年6月25日-星期四"&gt;2026年6月25日 星期四&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8825%e6%97%a5-%e6%98%9f%e6%9c%9f%e5%9b%9b"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;table&gt;
 	&lt;thead&gt;
 			&lt;tr&gt;
@@ -229,7 +229,7 @@
 &lt;li&gt;阿尔茨海默病转录组关联分析（TWAS）和蛋白质组关联分析（PWAS）应用：显著基因和蛋白的可视化呈现、蛋白质相互作用网络聚类，以及通路富集分析对机制假设的构建。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="上机实践"&gt;上机实践&lt;a class="anchor" href="#%e4%b8%8a%e6%9c%ba%e5%ae%9e%e8%b7%b5"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;转录组关联分析（TWAS）和蛋白质组关联分析（PWAS）建模、共定位与孟德尔随机化分析的上机练习。&lt;/p&gt;</description></item><item><title>6月26日 星期五</title><link>https://example.org/docs/schedule/day-5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-5/</guid><description>&lt;h1 id="2026年6月26日-星期五"&gt;2026年6月26日 星期五&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8826%e6%97%a5-%e6%98%9f%e6%9c%9f%e4%ba%94"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;转录组关联分析（TWAS）和蛋白质组关联分析（PWAS）建模、共定位与孟德尔随机化分析的上机练习。&lt;/p&gt;</description></item><item><title>6月26日 星期五</title><link>https://example.org/docs/schedule/day-5.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/schedule/day-5.html</guid><description>&lt;h1 id="2026年6月26日-星期五"&gt;2026年6月26日 星期五&lt;a class="anchor" href="#2026%e5%b9%b46%e6%9c%8826%e6%97%a5-%e6%98%9f%e6%9c%9f%e4%ba%94"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;table&gt;
 	&lt;thead&gt;
 			&lt;tr&gt;

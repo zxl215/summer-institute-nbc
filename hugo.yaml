@@ -4,6 +4,7 @@ theme: "hugo-book"
 
 publishDir: "public"
 relativeURLs: true
+uglyURLs: true
 canonifyURLs: false
 disablePathToLower: true
 enableGitInfo: true
@@ -27,28 +28,19 @@ markup:
 
 menu:
   after:
-    - name: "代码仓库"
-      url: "https://github.com/StatFunGen/summer-institute-nbc"
-      weight: 10
-    - name: "主题模板"
-      url: "https://themes.gohugo.io/themes/hugo-book/"
-      weight: 20
     - name: "分类"
-      url: "/categories/"
-      weight: 30
+      pageRef: "/categories"
+      weight: 10
     - name: "标签"
-      url: "/tags/"
-      weight: 40
+      pageRef: "/tags"
+      weight: 20
 
 params:
   BookTheme: "light"
   BookToC: true
   BookSection: "docs"
-  BookRepo: "https://github.com/StatFunGen/summer-institute-nbc"
-  BookEditLink: "{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}"
-  BookLastChangeLink: "{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}"
   BookDateFormat: "2006年1月2日"
-  BookSearch: true
+  BookSearch: false
   BookComments: false
   BookPortableLinks: "warning"
   BookServiceWorker: false
