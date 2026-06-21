@@ -18,19 +18,21 @@
 
 - `content/docs/course/`：课程概览、学术内容、组织架构与授课团队。
 - `content/docs/schedule/`：五天课程安排。
+- `content/docs/slides.md`：课件下载入口页。
 - `content/docs/life/`：食宿与后勤，包括签到、住宿、吃饭、车辆、上网、饮水和发票。
 - `content/docs/ngb/`：国家基因库指南。
 - `content/categories/`、`content/tags/`：分类和标签入口页。
+- `static/slides/`：课件文件固定存放位置。替换这里的同名文件后，Hugo会复制到 `public/slides/`。
 - `layouts/`：Hugo模板覆盖，用于中文页脚、分类页和标签页。
 - `public/`：自动生成的HTML文件。
 
 ## 如何更新网站
 
-1. 修改 `content/` 下的Markdown文件。
+1. 修改 `content/` 下的Markdown文件；如果更新课件，请替换 `static/slides/` 下的同名文件。
 2. 本地提交并推送：
 
 ```bash
-git add content README.md hugo.yaml layouts
+git add content static README.md hugo.yaml layouts
 git commit -m "更新课程网站内容"
 git push
 ```

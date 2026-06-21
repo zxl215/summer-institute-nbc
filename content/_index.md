@@ -22,6 +22,7 @@ tags:
 - [课程概览](docs/course/)
 - [学术内容](docs/course/academic-themes/)
 - [课程安排](docs/schedule/)
+- [课件下载](docs/slides.html)
 - [食宿与后勤](docs/life/)
 - [国家基因库指南](docs/ngb/)
 
