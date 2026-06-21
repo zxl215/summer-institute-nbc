@@ -6,4 +6,6 @@
 &lt;/ul&gt;
 &lt;p&gt;如无法连接无线网络，请联系现场工作人员或助教。&lt;/p&gt;
 &lt;h2 id="打开个人上机入口"&gt;打开个人上机入口&lt;a class="anchor" href="#%e6%89%93%e5%bc%80%e4%b8%aa%e4%ba%ba%e4%b8%8a%e6%9c%ba%e5%85%a5%e5%8f%a3"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;每位学员都有一个个人上机入口。入口使用英文账号，英文账号对应课程分配的 Linux 文件夹名。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;每位学员都有一个个人上机入口。入口使用英文账号，英文账号对应课程分配的 Linux 文件夹名。&lt;/p&gt;</description></item><item><title>自建上机环境</title><link>https://example.org/docs/practice/local-environment.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/practice/local-environment.html</guid><description>&lt;h1 id="自建上机环境"&gt;自建上机环境&lt;a class="anchor" href="#%e8%87%aa%e5%bb%ba%e4%b8%8a%e6%9c%ba%e7%8e%af%e5%a2%83"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;本次上机使用已经配置好的课程服务器，现场环境和部分数据由组织方提前准备。课程服务器适合课堂练习、助教支持和统一排错。&lt;/p&gt;
+&lt;p&gt;希望在个人电脑、所在学校服务器或所在单位计算平台上继续复现课程流程的学员，可参考以下脚本配置课程所需软件环境：&lt;/p&gt;</description></item></channel></rss>
