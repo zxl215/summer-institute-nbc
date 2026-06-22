@@ -19,8 +19,8 @@ tags:
 
 ## 6月23日 星期二
 
-- 王告：课件文件一《全基因组关联分析（GWAS）方法论基础》：<a href="../slides/2026-06-23-wang-gao-01-gwas-methods.pdf">下载</a>
-- 王告：课件文件二《精细定位与多性状数据集整合分析方法》：<a href="../slides/2026-06-23-wang-gao-02-finemapping-multi-trait-datasets.pdf">下载</a>
+- 王告：课件文件一《全基因组关联分析（GWAS）方法论基础》：<a href="../slides/2026-06-23-wang-gao-01-gwas-methods-02-fine-mapping-integration.pdf">下载</a>
+- 王告：课件文件二《精细定位与多性状数据集整合分析方法》：已合并至上面课件
 - 刘毓文：课件文件一《高通量功能基因组实验与复杂疾病研究》：<a href="../slides/2026-06-23-liu-yuwen-01-functional-genomics.pdf">下载</a>
 
 ## 6月24日 星期三
