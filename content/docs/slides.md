@@ -12,6 +12,10 @@ tags:
 
 课程课件会随课程进度持续更新。原则上，第二天上课的课件会在前一天下午之前上传到本页。链接暂时无法打开时，说明该课件还没有上传完成，请以授课现场通知为准。
 
+## 上机练习索引页
+
+- 上机练习材料与流程总入口：<a href="https://statfungen.github.io/xqtl-protocol/xqtl_flowchart.html">打开上机练习索引页</a>
+
 ## 6月22日 星期一
 
 - 董睿：课件文件一《统计遗传学的统计基础》：<a href="https://statfungen.github.io/statgen-primer/README.html">在线阅读</a>
