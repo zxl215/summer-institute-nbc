@@ -6,7 +6,7 @@
 - 主题模板：https://themes.gohugo.io/themes/hugo-book/
 - 主题源码：https://github.com/alex-shpak/hugo-book
 
-课程内容使用Markdown维护，源文件位于 `content/docs/`。生成后的HTML文件位于 `public/`，由GitHub Actions自动生成并提交回本仓库。
+课程内容使用Markdown维护，源文件位于 `content/docs/`。生成后的HTML文件位于 `public/`，由GitHub Actions自动生成、提交回本仓库，并从 `public/` 发布到GitHub Pages。
 
 生成目标是让维护者或读者可以直接打开 `public/index.html` 查看网站；不应依赖 `hugo serve` 才能浏览。为此，Hugo配置启用了相对链接和 `.html` 文件式链接。
 
@@ -40,7 +40,8 @@ git push
 ```
 
 3. 推送到GitHub后，GitHub Actions会自动安装Hugo、生成HTML，并把 `public/` 目录中的生成结果提交回 `main`。
-4. 如果看到提交信息 `Build Hugo HTML [skip ci]`，说明HTML已经由自动流程生成。
+4. 同一个GitHub Actions流程会把 `public/` 发布到GitHub Pages。
+5. 如果看到提交信息 `Build Hugo HTML [skip ci]`，说明HTML已经由自动流程生成。
 
 不要直接修改 `public/` 目录中的HTML文件。`public/` 是自动生成结果，下一次构建时会被覆盖。需要改内容时，请修改Markdown源文件。
 
@@ -56,7 +57,7 @@ git push
 4. 在网站服务器端创建或保留 `public/slides/` 目录，把课件PDF按下面的固定文件名放进去。
 5. 后续更新课件时，直接在服务器端替换同名PDF；如果只是替换课件文件，不需要重新构建Hugo。
 
-发布网站内容到服务器时，请保留服务器端已有的 `public/slides/` 目录和其中的PDF文件。同步HTML文件时不要把服务器端课件目录删除。
+发布网站内容到服务器时，请保留服务器端已有的 `public/slides/` 目录和其中的PDF文件。同步HTML文件时不要把服务器端课件目录删除。若使用GitHub Pages直接发布 `public/`，课件PDF需要另行放在可访问的位置，或在课件页改成外部下载链接；本仓库默认不提交PDF文件。
 
 当前课件下载文件名：
 
@@ -117,8 +118,9 @@ GitHub Actions配置位于 `.github/workflows/build-html.yml`。每次推送Mark
 3. 运行 `hugo --gc --minify --cleanDestinationDir --noTimes --noChmod --destination public` 生成HTML。
 4. 检测 `data/course_students_urls.xlsx` 是否变化，并在Hugo构建后运行 `python3 scripts/generate_student_redirects.py --input data/course_students_urls.xlsx --output public` 生成学员英文上机入口。
 5. 如果 `public/` 有变化，自动提交 `Build Hugo HTML [skip ci]` 并推回 `main`。
+6. 将当前构建出的 `public/` 上传为GitHub Pages发布内容。
 
-这个流程负责生成并提交HTML。
+这个流程负责生成HTML、提交HTML，并发布GitHub Pages。仓库的GitHub Pages设置需要选择 `GitHub Actions` 作为发布来源。
 
 ## 中文写作规则
 
