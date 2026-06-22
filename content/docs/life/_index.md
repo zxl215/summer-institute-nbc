@@ -19,6 +19,6 @@ tags:
 - [签到与上课地点](check-in/)
 - [住宿](accommodation/)
 - [吃饭](food/)
-- [车辆与到达](transport/)
+- [车辆、到达与离开](transport/)
 - [上网与饮水](network-water/)
 - [发票申请](invoice/)
