@@ -22,19 +22,19 @@
 					&lt;td&gt;午餐&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
-					&lt;td&gt;13:00-15:30&lt;/td&gt;
+					&lt;td&gt;13:00-15:30（最晚16:00）&lt;/td&gt;
 					&lt;td&gt;李扬&lt;/td&gt;
 					&lt;td&gt;非编码变异到疾病机制：调控数量性状位点（QTL）与人类疾病基因组&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
-					&lt;td&gt;15:30-16:30&lt;/td&gt;
+					&lt;td&gt;15:30-16:30（最晚17:00）&lt;/td&gt;
 					&lt;td&gt;李扬、王告&lt;/td&gt;
-					&lt;td&gt;与讲师答疑与 FAQ 保留问题&lt;/td&gt;
+					&lt;td&gt;与讲师答疑：AI与功能基因组学、基因组调控&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
-					&lt;td&gt;16:30-18:30&lt;/td&gt;
+					&lt;td&gt;16:30起（顺延时17:05起）&lt;/td&gt;
 					&lt;td&gt;刘安京、Jenny Empawi&lt;/td&gt;
-					&lt;td&gt;上机实践指导&lt;/td&gt;
+					&lt;td&gt;上机实践指导、自主练习与交流；18:30统一清场&lt;/td&gt;
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
@@ -49,11 +49,11 @@
 &lt;li&gt;分子调控数量性状位点（QTL）：表达、剪接与蛋白质组数量性状位点（pQTL）将非编码变异映射到分子功能的统计原理；细胞类型特异性与多组织数量性状位点（QTL）对全基因组关联分析（GWAS）信号的生物学注释。&lt;/li&gt;
 &lt;li&gt;孟德尔疾病到复杂性状架构：外显子组与全基因组测序在孟德尔病诊断中的流程；全基因组关联分析（GWAS）、单核苷酸变异遗传率与全基因模型对复杂性状架构的重新解读。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="与讲师答疑与-faq-保留问题"&gt;与讲师答疑与 FAQ 保留问题&lt;a class="anchor" href="#%e4%b8%8e%e8%ae%b2%e5%b8%88%e7%ad%94%e7%96%91%e4%b8%8e-faq-%e4%bf%9d%e7%95%99%e9%97%ae%e9%a2%98"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id="与讲师答疑ai与功能基因组学基因组调控"&gt;与讲师答疑：AI与功能基因组学、基因组调控&lt;a class="anchor" href="#%e4%b8%8e%e8%ae%b2%e5%b8%88%e7%ad%94%e7%96%91ai%e4%b8%8e%e5%8a%9f%e8%83%bd%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ad%a6%e5%9f%ba%e5%9b%a0%e7%bb%84%e8%b0%83%e6%8e%a7"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;答疑首先开放学员自由提问，鼓励学员主动提问；任何与当天讲座、上机实践、研究设计和个人课题相关的问题都可以提出。&lt;/li&gt;
-&lt;li&gt;FAQ 保留问题：针对当天讲授的内容，目前机器学习（ML）与人工智能（AI）的发展会带来什么影响？当天授课教师对 AI/ML 在科研和未来发展中的作用有哪些视角？&lt;/li&gt;
-&lt;li&gt;邀请当天授课教师分别结合自己的研究经验给出看法。&lt;/li&gt;
+&lt;li&gt;专题讨论：机器学习（ML）与人工智能（AI）如何影响功能基因组学、RNA 调控、基因组调控和数量性状位点（QTL）研究，包括数据解析、调控元件预测、模型解释和实验设计。&lt;/li&gt;
+&lt;li&gt;邀请李扬、王告结合本领域代表性研究与当前发展，帮助大家分辨值得关注的方向。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="上机实践"&gt;上机实践&lt;a class="anchor" href="#%e4%b8%8a%e6%9c%ba%e5%ae%9e%e8%b7%b5"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;分子性状数据处理、调控数量性状位点（QTL）定位、精细定位、细胞类型特异性数量性状位点（QTL）分析上机练习。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;分子性状数据处理、调控数量性状位点（QTL）定位、精细定位、细胞类型特异性数量性状位点（QTL）分析上机练习。助教先带大家运行和讲解，随后可自主练习、互相讨论或向在场老师提问。&lt;/p&gt;</description></item></channel></rss>

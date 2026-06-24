@@ -20,19 +20,19 @@
 					&lt;td&gt;午餐&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
-					&lt;td&gt;13:00-15:30&lt;/td&gt;
+					&lt;td&gt;13:00-15:30（最晚16:00）&lt;/td&gt;
 					&lt;td&gt;杨晶晶&lt;/td&gt;
 					&lt;td&gt;共定位、因果推断与阿尔茨海默病应用&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
-					&lt;td&gt;15:30-16:30&lt;/td&gt;
+					&lt;td&gt;15:30-16:30（最晚17:00）&lt;/td&gt;
 					&lt;td&gt;杨晶晶、王告&lt;/td&gt;
-					&lt;td&gt;与讲师答疑与 FAQ 保留问题&lt;/td&gt;
+					&lt;td&gt;与讲师答疑：AI与统计、生物统计方法&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
-					&lt;td&gt;16:30-18:30&lt;/td&gt;
+					&lt;td&gt;16:30起（顺延时17:05起）&lt;/td&gt;
 					&lt;td&gt;刘安京、Jenny Empawi&lt;/td&gt;
-					&lt;td&gt;上机实践指导&lt;/td&gt;
+					&lt;td&gt;上机实践指导、自主练习与交流；18:30统一清场&lt;/td&gt;
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
@@ -47,11 +47,11 @@
 &lt;li&gt;共定位与孟德尔随机化：贝叶斯共定位的假设与边界；将孟德尔随机化与转录组关联分析（TWAS）结合以缓解水平多效性干扰。&lt;/li&gt;
 &lt;li&gt;阿尔茨海默病转录组关联分析（TWAS）和蛋白质组关联分析（PWAS）应用：显著基因和蛋白的可视化呈现、蛋白质相互作用网络聚类，以及通路富集分析对机制假设的构建。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="与讲师答疑与-faq-保留问题"&gt;与讲师答疑与 FAQ 保留问题&lt;a class="anchor" href="#%e4%b8%8e%e8%ae%b2%e5%b8%88%e7%ad%94%e7%96%91%e4%b8%8e-faq-%e4%bf%9d%e7%95%99%e9%97%ae%e9%a2%98"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id="与讲师答疑ai与统计生物统计方法"&gt;与讲师答疑：AI与统计、生物统计方法&lt;a class="anchor" href="#%e4%b8%8e%e8%ae%b2%e5%b8%88%e7%ad%94%e7%96%91ai%e4%b8%8e%e7%bb%9f%e8%ae%a1%e7%94%9f%e7%89%a9%e7%bb%9f%e8%ae%a1%e6%96%b9%e6%b3%95"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;答疑首先开放学员自由提问，鼓励学员主动提问；任何与当天讲座、上机实践、研究设计和个人课题相关的问题都可以提出。&lt;/li&gt;
-&lt;li&gt;FAQ 保留问题：针对当天讲授的内容，目前机器学习（ML）与人工智能（AI）的发展会带来什么影响？当天授课教师对 AI/ML 在科研和未来发展中的作用有哪些视角？&lt;/li&gt;
-&lt;li&gt;邀请当天授课教师分别结合自己的研究经验给出看法。&lt;/li&gt;
+&lt;li&gt;专题讨论：机器学习（ML）与人工智能（AI）如何影响统计学和生物统计学，包括新方法快速出现时如何判断其统计假设、可解释性、可重复性和实际增益。&lt;/li&gt;
+&lt;li&gt;邀请杨晶晶、王告结合精细定位、转录组关联分析（TWAS）、蛋白质组关联分析（PWAS）和因果推断场景，帮助大家拨云见雾。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="上机实践"&gt;上机实践&lt;a class="anchor" href="#%e4%b8%8a%e6%9c%ba%e5%ae%9e%e8%b7%b5"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;转录组关联分析（TWAS）和蛋白质组关联分析（PWAS）建模、共定位与孟德尔随机化分析的上机练习。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;转录组关联分析（TWAS）和蛋白质组关联分析（PWAS）建模、共定位与孟德尔随机化分析的上机练习。助教先带大家运行和讲解，随后可自主练习、互相讨论或向在场老师提问。&lt;/p&gt;</description></item></channel></rss>
